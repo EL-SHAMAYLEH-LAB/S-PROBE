@@ -1,23 +1,3 @@
-# S-PROBE
+https://drive.google.com/drive/folders/1F8Mv-vWJj2nmvffJvhuU4MpGxS2f08L_?usp=share_link
 
-
-s-probe-analysis.docx      
-
-description of analysis steps
-
-
-c20230607004.ns6    
-
-raw voltage data
-
-
-c20230607004.nev       
-
-trial events data
-
-
-
-
-
-
-
+See "README" file describing all the parts.
